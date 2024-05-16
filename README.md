@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sourdoughbredd
+- 👋 Hi, I’m Brett Bussell, aka @sourdoughbredd
 - 👀 I’m a former flight controls engineer pursuing a new career as a software engineer. 
 - 🌱 I’m currently learning full-stack Javascript as well as DS&A with Java via the Berkeley CS61B course
 
