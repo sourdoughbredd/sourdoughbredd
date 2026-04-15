@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brett Bussell, aka @sourdoughbredd
-- 👀 I’m a former flight controls engineer and current software enginerr.
+- 👀 I’m a former flight controls engineer and current software engineer.
 - 🌱 I’ve worked in embedded development in C++ and Python and full stack web development with many tools
 
 <!---
